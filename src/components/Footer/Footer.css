@@ -1,0 +1,19 @@
+.footer {
+	background: black;
+	color: white;
+	text-align: center;
+	padding: 20px 0;
+}
+.footer > div,
+.footer a {
+	color: rgb(255 255 255 / 55%);
+	text-decoration: none;
+}
+.footer div span {
+	margin-right: 6px;
+	font-size: 0.8em;
+}
+.footer a:hover {
+	color: red;
+	text-decoration: none;
+}
